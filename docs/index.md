@@ -5,20 +5,19 @@ header:
   image: ./assets/logo.jpeg
 ---
 
-<div style="text-align: center; margin: 2em 0;">
-  <p style="font-size: 1.2em; margin-bottom: 0.5em;">📞 お電話でのお問い合わせ / Call Us</p>
-  <a href="tel:+16176827774" style="display: inline-block; background: linear-gradient(135deg, #007bff, #0056b3); color: white; font-size: 1.5em; font-weight: bold; padding: 0.8em 1.5em; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 15px rgba(0,123,255,0.4);">
-    📱 +1-617-682-7774
-  </a>
-</div>
-
 ### Welcome
 
 We are Metaproxy technologies (Nissho Seisakusho), which is engaged in system development and digital workplace construction.
 
-Please feel free to contact us via DM on Twitter for any job orders or problems you may have.
+Please feel free to contact us via DM on X for any job orders or problems you may have.
 
-<https://twitter.com/rtree>
+<https://x.com/rtree>
+
+📞 お電話でのお問い合わせ / Call Us
+
+<a href="tel:+16176827774" style="display: inline-block; background: linear-gradient(135deg, #007bff, #0056b3); color: white; font-weight: bold; padding: 0.6em 1.2em; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 15px rgba(0,123,255,0.4);">
+📱 +1-617-682-7774
+</a>
 　
 ### Achievements to date
 
@@ -48,9 +47,9 @@ Please refer following:
 
 システム開発、デジタルワークプレイスの構築を行っておりますMetaproxy technologies(日昇製作所)のページです。
 
-お仕事のご用命やお困りごとのご相談はTwitterのDMよりお寄せください。
+お仕事のご用命やお困りごとのご相談はXのDMよりお寄せください。
 
-<https://twitter.com/rtree>
+<https://x.com/rtree>
 　
 ### これまでの実績
 
