@@ -5,9 +5,9 @@ header:
   image: ./assets/logo.jpeg
 ---
 
-### Welcome!
+### Welcome
 
-This is the page of Metaproxy technologies (Nissho Seisakusho), which is engaged in system development and digital workplace construction.
+We are Metaproxy technologies (Nissho Seisakusho), which is engaged in system development and digital workplace construction.
 
 Please feel free to contact us via DM on Twitter for any job orders or problems you may have.
 
@@ -15,7 +15,7 @@ Please feel free to contact us via DM on Twitter for any job orders or problems 
 　
 ### Achievements to date
 
-Our company was founded in 2020 by a representative who has experience in SRE, PM and system consulting for major Japanese financial institutions. We specialize in providing middle management services between management and members.
+Metaproxy was founded in 2020 by a representative who has experience in SRE, PM and system consulting for major Japanese financial institutions. We specialize in providing middle management services between management and members.
 
 Our main achievements since the establishment of the company include the following
 - PM for management accounting system project
@@ -49,10 +49,11 @@ Please refer following:
 
 当社はシステムインテグレーターにて日系大手金融機関のシステム構築、PM、コンサルティング経験のある代表が2020年に創業いたしました。経営層とメンバ層の中間のミドルマネジメントのご提供を得意としております。
 
-創業後の主な実績として以下があります。
+＜創業後の主な実績＞
 - 管理会計システム構築プロジェクトPM
-- 知育用スマホアプリ制作PM
+- 知育用スマホアプリ制作PdM
 - セキュリティを担保したリモートワーク環境構築
+- ベクトル最近傍検索を用いたRAG検索システム構築
 
 
 システム構築の要諦は組織作りと考えております。お客様皆様のビジネス目標を達成するための組織を整備し、そしてその組織の能力を向上させるために最適なシステムや人の動きを設計することが喜びです。
@@ -68,13 +69,27 @@ Please refer following:
 |             | Metaproxy technologies|
 | 設立         | 2020年                |
 | 代表         | 荒木　智彦              |
-|             |  情報処理安全確保支援士（登録番号018850）|
-|             |  基本情報技術者、応用情報技術者         |
-|             |  宅地建物取引士試験合格         |
-|             |  ビル経営管理主任        |
-|             |  小規模不動産特定共同事業　業務管理者講習　修了         |
-|             |  VMware Certified Professional (Desktop Virtualization) |
-|             |  Alcatel-Lucent Certified Field Expert (OmniPCX Enterprise R9) |
-|             |  <https://www.linkedin.com/in/arakitomohiko/>|
-| 参加団体      | 東京商工会議所会員     |
+|             |  〇情報処理関連資格  |
+|             |  - 　情報処理安全確保支援士（登録番号018850）|
+|             |  - 　基本情報技術者、応用情報技術者         |
+|             |  - 　VMware Certified Professional (Desktop Virtualization) |
+|             |  - 　Alcatel-Lucent Certified Field Expert (OmniPCX Enterprise R9) |
+|             |  〇暗号資産プログラミングコンテストにおける表彰  |
+|             |  - ETHGlobal Sponser Prize  |
+|             |  -- 　Best App Idea on Zircuit 1st place |
+|             |  -- 　Best Use of Nora for AI Coding 1st place  |
+|             |  -- 　WalletConnect Top 10  |
+|             |  -- 　XDC Foundation Token Gating  |
+|             |  -- 　他多数  |
+|             |  〇不動産領域の業務資格  |
+|             |  - 　宅地建物取引士試験合格         |
+|             |  - 　ビル経営管理主任        |
+|             |  - 　小規模不動産特定共同事業　業務管理者講習　修了         |
+| 参加団体      |                    |
+|             | 東京商工会議所会員     |
 | 　　　　      | Electronic Frontier Foundation |
+| 代表経歴      | 　　　              |
+| 　　　　      | 2006年　明治大学理工学部電気電子工学科卒　 |
+| 　　　　      | 2006-2020年　野村総合研究所（NRI）　 　　 |
+| 　　　　      | 2020年-　現職　 　　 |
+|             |  <https://www.linkedin.com/in/arakitomohiko/>|
