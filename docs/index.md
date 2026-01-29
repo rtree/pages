@@ -16,7 +16,11 @@ Please feel free to contact us via DM on X for any job orders or problems you ma
 📞 お電話でのお問い合わせ / Call Us
 
 <a href="tel:+16176827774" style="display: inline-block; background: linear-gradient(135deg, #007bff, #0056b3); color: white; font-weight: bold; padding: 0.6em 1.2em; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 15px rgba(0,123,255,0.4);">
-📱 +1-617-682-7774
+🇺🇸 From US: +1-617-682-7774
+</a>
+　
+<a href="tel:05030923180" style="display: inline-block; background: linear-gradient(135deg, #dc3545, #b02a37); color: white; font-weight: bold; padding: 0.6em 1.2em; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 15px rgba(220,53,69,0.4);">
+🇯🇵 日本から: 050-3092-3180
 </a>
 　
 ### Achievements to date
