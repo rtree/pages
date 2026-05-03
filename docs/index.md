@@ -19,10 +19,6 @@ Please feel free to contact us via DM on X for any job orders or problems you ma
 🇺🇸 From US: +1-617-682-7774
 </a>
 　
-<a href="tel:05030923180" style="display: inline-block; background: linear-gradient(135deg, #dc3545, #b02a37); color: white; font-weight: bold; padding: 0.6em 1.2em; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 15px rgba(220,53,69,0.4);">
-🇯🇵 日本から: 050-3092-3180
-</a>
-　
 ### Achievements to date
 
 Metaproxy was founded in 2020 by a representative who has experience in SRE, PM and system consulting for major Japanese financial institutions. We specialize in providing middle management services between management and members.
@@ -62,9 +58,11 @@ Please refer following:
 ＜創業後の主な実績＞
 - 管理会計システム構築プロジェクトPM
 - 知育用スマホアプリ制作PdM
-- セキュリティを担保したリモートワーク環境構築
-- ベクトル最近傍検索を用いたRAG検索システム構築
-
+- セキュリティを担保したリモートワーク環境構築（インフラEngineer
+- ベクトル最近傍検索を用いたRAG検索システム構築（Programmer
+- AIOCR開発（企画開発・Programmer
+- AI活用のチャットボット開発（PM・Programmer
+- AI＋電話ソリューション開発（企画開発・Programmer
 
 システム構築の要諦は組織作りと考えております。お客様皆様のビジネス目標を達成するための組織を整備し、そしてその組織の能力を向上させるために最適なシステムや人の動きを設計することが喜びです。
 
